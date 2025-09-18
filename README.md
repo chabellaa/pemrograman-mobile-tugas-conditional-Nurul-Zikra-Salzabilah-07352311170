@@ -1,8 +1,7 @@
 # Program Sistem Penilaian Mahasiswa dengan Conditional Statement
-
-## Identitas Mahasiswa
-- **Nama**: [Isi Nama Anda]
-- **NIM**: [Isi NIM Anda]
+- **Nama**: Nurul Zikra Salzabilah
+- **NPM**: 07352311170
+- **Kelas**: 5IF1
 
 ## Deskripsi Program
 Program ini dibuat menggunakan bahasa **Dart** untuk menentukan nilai akhir mahasiswa dalam bentuk huruf (grade) berdasarkan skor ujian yang dimasukkan.  
